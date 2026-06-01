@@ -1,4 +1,4 @@
-package com.learnJava.data;
+package com.demo.data;
 
 import java.util.ArrayList;
 import java.util.List;

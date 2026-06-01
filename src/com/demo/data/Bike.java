@@ -1,4 +1,4 @@
-package com.learnJava.data;
+package com.demo.data;
 
 public class Bike {
 
